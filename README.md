@@ -8,4 +8,4 @@
 React Native, Expo Router, TypeScript, Expo AV, Ionicons, MaterialIcons, FontAwesome5, SafeAreaView
 
 
-P.S.მთლიანი ლოგიკა დაწერილია app ფოლდერში. 
+P.S. ლოგიკა დაწერილია app ფოლდერში. 

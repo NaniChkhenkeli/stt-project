@@ -5,9 +5,4 @@
 ფუნქციები: ხმის ჩაწერა რეალურ დროში, ჩაწერის შეჩერება და აუდიოს დაკვრა, ჩაწერილი ხმიდან ტექსტის აცტომატური გენერაცია, პატამეტრები, პროფილის სექცია, YouTube ლინკის სექცია. 
 
 ტექნოლოგიები: 
-React Native
-Expo Router
-TypeScript
-Expo AV 
-Ionicons, MaterialIcons, FontAwesome5
-SafeAreaView
+React Native, Expo Router, TypeScript, Expo AV, Ionicons, MaterialIcons, FontAwesome5, SafeAreaView
